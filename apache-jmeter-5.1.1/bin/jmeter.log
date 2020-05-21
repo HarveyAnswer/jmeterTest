@@ -1,51 +1,180 @@
-2020-05-21 11:19:31,754 INFO o.a.j.u.JMeterUtils: Setting Locale to en_GB
-2020-05-21 11:19:31,774 INFO o.a.j.JMeter: Loading user properties from: user.properties
-2020-05-21 11:19:31,774 INFO o.a.j.JMeter: Loading system properties from: system.properties
-2020-05-21 11:19:31,779 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
-2020-05-21 11:19:31,780 INFO o.a.j.JMeter: Version 5.1.1 r1855137
-2020-05-21 11:19:31,780 INFO o.a.j.JMeter: java.version=11.0.2
-2020-05-21 11:19:31,780 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
-2020-05-21 11:19:31,780 INFO o.a.j.JMeter: os.name=Windows 10
-2020-05-21 11:19:31,780 INFO o.a.j.JMeter: os.arch=amd64
-2020-05-21 11:19:31,780 INFO o.a.j.JMeter: os.version=10.0
-2020-05-21 11:19:31,780 INFO o.a.j.JMeter: file.encoding=Cp1252
-2020-05-21 11:19:31,780 INFO o.a.j.JMeter: java.awt.headless=null
-2020-05-21 11:19:31,780 INFO o.a.j.JMeter: Max memory     =4246732800
-2020-05-21 11:19:31,780 INFO o.a.j.JMeter: Available Processors =8
-2020-05-21 11:19:31,788 INFO o.a.j.JMeter: Default Locale=English (United Kingdom)
-2020-05-21 11:19:31,789 INFO o.a.j.JMeter: JMeter  Locale=English (United Kingdom)
-2020-05-21 11:19:31,789 INFO o.a.j.JMeter: JMeterHome=C:\Users\sembhyh\Documents\Projects\CVL-Zenith\Zenith\JMeterCIDemo-master\JMeterCIDemo-master\apache-jmeter-5.1.1
-2020-05-21 11:19:31,789 INFO o.a.j.JMeter: user.dir  =C:\Users\sembhyh\Documents\Projects\CVL-Zenith\Zenith\JMeterCIDemo-master\JMeterCIDemo-master\apache-jmeter-5.1.1\bin
-2020-05-21 11:19:31,790 INFO o.a.j.JMeter: PWD       =C:\Users\sembhyh\Documents\Projects\CVL-Zenith\Zenith\JMeterCIDemo-master\JMeterCIDemo-master\apache-jmeter-5.1.1\bin
-2020-05-21 11:19:31,792 INFO o.a.j.JMeter: IP: 192.168.0.55 Name: ANS-433 FullName: ANS-433.upco.co.uk
-2020-05-21 11:19:31,983 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
-2020-05-21 11:19:31,989 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.bulenkov.darcula.DarculaLaf [Darcula]
-2020-05-21 11:19:31,990 INFO o.a.j.JMeter: Setting LAF to: com.bulenkov.darcula.DarculaLaf
-2020-05-21 11:19:32,043 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
-2020-05-21 11:19:33,149 INFO o.j.r.JARSourceHTTP: Requesting https://jmeter-plugins.org/repo/?installID=windows_10-255034e49b41f0d6244259636463951e-gui
-2020-05-21 11:19:34,591 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2020-05-21 11:19:34,591 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2020-05-21 11:19:34,592 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2020-05-21 11:19:34,592 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
-2020-05-21 11:19:34,592 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
-2020-05-21 11:19:34,592 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
-2020-05-21 11:19:34,920 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
-2020-05-21 11:19:34,921 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\Users\sembhyh\Documents\Projects\CVL-Zenith\Zenith\JMeterCIDemo-master\JMeterCIDemo-master\apache-jmeter-5.1.1\bin\proxyserver.jks
-2020-05-21 11:19:34,970 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-cmd=2.2, jpgc-functions=2.1, jpgc-casutg=2.9, jpgc-dummy=0.4, jpgc-ffw=2.0, jpgc-fifo=0.2, jpgc-pde=0.1, jpgc-perfmon=2.1, jpgc-plugins-manager=1.3, jpgc-tst=2.5, jmeter-core=5.1.1, jmeter-ftp=5.1.1, jmeter-http=5.1.1, jmeter-jdbc=5.1.1, jmeter-jms=5.1.1, jmeter-junit=5.1.1, jmeter-java=5.1.1, jmeter-ldap=5.1.1, jmeter-mail=5.1.1, jmeter-mongodb=5.1.1, jmeter-native=5.1.1, jmeter-tcp=5.1.1, jmeter-components=5.1.1, jpgc-standard=2.0]
-2020-05-21 11:19:34,973 INFO o.j.r.PluginManagerMenuItem: Plugins Manager has upgrades: [jpgc-plugins-manager]
-2020-05-21 11:19:35,111 INFO o.a.j.s.FileServer: Default base='C:\Users\sembhyh\Documents\Projects\CVL-Zenith\Zenith\JMeterCIDemo-master\JMeterCIDemo-master\apache-jmeter-5.1.1\bin'
-2020-05-21 11:19:35,981 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
-2020-05-21 11:19:35,981 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
-2020-05-21 11:19:35,981 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
-2020-05-21 11:19:35,981 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
-2020-05-21 11:19:36,024 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
-2020-05-21 11:21:11,233 INFO o.a.j.g.a.Load: Loading file: C:\Users\sembhyh\Documents\Projects\CVL-Zenith\Zenith\JMeterCIDemo-master\JMeterCIDemo-master\apache-jmeter-5.1.1\bin\View Results Tree.jmx
-2020-05-21 11:21:11,233 INFO o.a.j.s.FileServer: Set new base='C:\Users\sembhyh\Documents\Projects\CVL-Zenith\Zenith\JMeterCIDemo-master\JMeterCIDemo-master\apache-jmeter-5.1.1\bin'
-2020-05-21 11:21:11,371 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
-2020-05-21 11:21:11,376 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
-2020-05-21 11:21:11,377 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
-2020-05-21 11:21:11,378 INFO o.a.j.s.SaveService: Loading file: C:\Users\sembhyh\Documents\Projects\CVL-Zenith\Zenith\JMeterCIDemo-master\JMeterCIDemo-master\apache-jmeter-5.1.1\bin\View Results Tree.jmx
-2020-05-21 11:21:11,520 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
-2020-05-21 11:21:11,520 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
-2020-05-21 11:21:11,778 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
-2020-05-21 11:21:11,841 INFO o.a.j.s.FileServer: Set new base='C:\Users\sembhyh\Documents\Projects\CVL-Zenith\Zenith\JMeterCIDemo-master\JMeterCIDemo-master\apache-jmeter-5.1.1\bin'
+2020-05-21 14:41:05,994 INFO o.a.j.u.JMeterUtils: Setting Locale to en_GB
+2020-05-21 14:41:06,015 INFO o.a.j.JMeter: Loading user properties from: user.properties
+2020-05-21 14:41:06,015 INFO o.a.j.JMeter: Loading system properties from: system.properties
+2020-05-21 14:41:06,021 INFO o.a.j.JMeter: Copyright (c) 1998-2019 The Apache Software Foundation
+2020-05-21 14:41:06,021 INFO o.a.j.JMeter: Version 5.1.1 r1855137
+2020-05-21 14:41:06,021 INFO o.a.j.JMeter: java.version=11.0.2
+2020-05-21 14:41:06,021 INFO o.a.j.JMeter: java.vm.name=Java HotSpot(TM) 64-Bit Server VM
+2020-05-21 14:41:06,021 INFO o.a.j.JMeter: os.name=Windows 10
+2020-05-21 14:41:06,021 INFO o.a.j.JMeter: os.arch=amd64
+2020-05-21 14:41:06,021 INFO o.a.j.JMeter: os.version=10.0
+2020-05-21 14:41:06,021 INFO o.a.j.JMeter: file.encoding=Cp1252
+2020-05-21 14:41:06,021 INFO o.a.j.JMeter: java.awt.headless=null
+2020-05-21 14:41:06,021 INFO o.a.j.JMeter: Max memory     =4246732800
+2020-05-21 14:41:06,022 INFO o.a.j.JMeter: Available Processors =8
+2020-05-21 14:41:06,027 INFO o.a.j.JMeter: Default Locale=English (United Kingdom)
+2020-05-21 14:41:06,028 INFO o.a.j.JMeter: JMeter  Locale=English (United Kingdom)
+2020-05-21 14:41:06,028 INFO o.a.j.JMeter: JMeterHome=C:\Users\sembhyh\Documents\Projects\CVL-Zenith\jmeterTest\apache-jmeter-5.1.1
+2020-05-21 14:41:06,028 INFO o.a.j.JMeter: user.dir  =C:\Users\sembhyh\Documents\Projects\CVL-Zenith\jmeterTest\apache-jmeter-5.1.1\bin
+2020-05-21 14:41:06,028 INFO o.a.j.JMeter: PWD       =C:\Users\sembhyh\Documents\Projects\CVL-Zenith\jmeterTest\apache-jmeter-5.1.1\bin
+2020-05-21 14:41:06,030 INFO o.a.j.JMeter: IP: 192.168.0.55 Name: ANS-433 FullName: ANS-433.upco.co.uk
+2020-05-21 14:41:06,217 INFO o.a.j.g.a.LookAndFeelCommand: Installing Darcula LAF
+2020-05-21 14:41:06,225 INFO o.a.j.g.a.LookAndFeelCommand: Using look and feel: com.bulenkov.darcula.DarculaLaf [Darcula]
+2020-05-21 14:41:06,226 INFO o.a.j.JMeter: Setting LAF to: com.bulenkov.darcula.DarculaLaf
+2020-05-21 14:41:06,273 INFO o.a.j.JMeter: Loaded icon properties from org/apache/jmeter/images/icon.properties
+2020-05-21 14:41:07,348 INFO o.j.r.JARSourceHTTP: Found cached repo
+2020-05-21 14:41:07,491 INFO o.j.r.PluginManager: Plugins Status: [jpgc-graphs-basic=2.0, jpgc-cmd=2.2, jpgc-functions=2.1, jpgc-casutg=2.9, jpgc-dummy=0.4, jpgc-ffw=2.0, jpgc-fifo=0.2, jpgc-pde=0.1, jpgc-perfmon=2.1, jpgc-plugins-manager=1.3, jpgc-tst=2.5, jmeter-core=5.1.1, jmeter-ftp=5.1.1, jmeter-http=5.1.1, jmeter-jdbc=5.1.1, jmeter-jms=5.1.1, jmeter-junit=5.1.1, jmeter-java=5.1.1, jmeter-ldap=5.1.1, jmeter-mail=5.1.1, jmeter-mongodb=5.1.1, jmeter-native=5.1.1, jmeter-tcp=5.1.1, jmeter-components=5.1.1, jpgc-standard=2.0]
+2020-05-21 14:41:07,499 INFO o.j.r.PluginManagerMenuItem: Plugins Manager has upgrades: [jpgc-plugins-manager]
+2020-05-21 14:41:08,805 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/html is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-05-21 14:41:08,805 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xhtml+xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-05-21 14:41:08,806 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for application/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-05-21 14:41:08,806 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/xml is org.apache.jmeter.protocol.http.parser.LagartoBasedHtmlParser
+2020-05-21 14:41:08,806 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/vnd.wap.wml is org.apache.jmeter.protocol.http.parser.RegexpHTMLParser
+2020-05-21 14:41:08,806 INFO o.a.j.p.h.s.HTTPSamplerBase: Parser for text/css is org.apache.jmeter.protocol.http.parser.CssParser
+2020-05-21 14:41:09,114 INFO o.a.j.e.KeyToolUtils: keytool found at 'keytool'
+2020-05-21 14:41:09,115 INFO o.a.j.p.h.p.ProxyControl: HTTP(S) Test Script Recorder SSL Proxy will use keys that support embedded 3rd party resources in file C:\Users\sembhyh\Documents\Projects\CVL-Zenith\jmeterTest\apache-jmeter-5.1.1\bin\proxyserver.jks
+2020-05-21 14:41:09,294 INFO o.a.j.s.FileServer: Default base='C:\Users\sembhyh\Documents\Projects\CVL-Zenith\jmeterTest\apache-jmeter-5.1.1\bin'
+2020-05-21 14:41:10,154 INFO o.a.j.s.SampleResult: Note: Sample TimeStamps are START times
+2020-05-21 14:41:10,154 INFO o.a.j.s.SampleResult: sampleresult.default.encoding is set to ISO-8859-1
+2020-05-21 14:41:10,154 INFO o.a.j.s.SampleResult: sampleresult.useNanoTime=true
+2020-05-21 14:41:10,154 INFO o.a.j.s.SampleResult: sampleresult.nanoThreadSleep=5000
+2020-05-21 14:41:10,198 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2020-05-21 14:41:12,803 INFO o.a.j.g.a.Load: Loading file: C:\Users\sembhyh\Documents\Projects\CVL-Zenith\jmeterTest\apache-jmeter-5.1.1\bin\View Results Tree.jmx
+2020-05-21 14:41:12,803 INFO o.a.j.s.FileServer: Set new base='C:\Users\sembhyh\Documents\Projects\CVL-Zenith\jmeterTest\apache-jmeter-5.1.1\bin'
+2020-05-21 14:41:12,956 INFO o.a.j.s.SaveService: Testplan (JMX) version: 2.2. Testlog (JTL) version: 2.2
+2020-05-21 14:41:12,961 INFO o.a.j.s.SaveService: Using SaveService properties version 5.0
+2020-05-21 14:41:12,962 INFO o.a.j.s.SaveService: Using SaveService properties file encoding UTF-8
+2020-05-21 14:41:12,964 INFO o.a.j.s.SaveService: Loading file: C:\Users\sembhyh\Documents\Projects\CVL-Zenith\jmeterTest\apache-jmeter-5.1.1\bin\View Results Tree.jmx
+2020-05-21 14:41:13,096 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2020-05-21 14:41:13,096 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2020-05-21 14:41:13,361 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java in2020-05-21 14:41:48,864 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must contain the string: '.functions.'
+2020-05-21 14:41:48,864 INFO o.a.j.e.u.CompoundVariable: Note: Function class names must not contain the string: '.gui.'
+2020-05-21 14:45:52,625 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
+2020-05-21 14:48:43,108 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2020-05-21 14:48:43,109 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-05-21 14:48:43,109 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-05-21 14:48:43,117 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2020-05-21 14:48:43,170 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : 100 Users - Arrivals Thread Group
+2020-05-21 14:48:43,171 INFO o.a.j.e.StandardJMeterEngine: Starting 0 threads for group 100 Users - Arrivals Thread Group.
+2020-05-21 14:48:43,171 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2020-05-21 14:48:43,178 INFO o.a.j.t.JMeterThread: Thread started: 100 Users - Arrivals Thread Group-ThreadStarter 1-1
+2020-05-21 14:48:43,180 INFO c.b.j.t.a.ArrivalsThreadGroup: Got first arrival
+2020-05-21 14:48:43,180 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2020-05-21 14:48:43,184 INFO o.a.j.p.h.s.HTTPHCAbstractImpl: Local host = ANS-433
+2020-05-21 14:48:43,187 INFO o.a.j.p.h.s.HTTPHC4Impl: HTTP request retry count = 0
+2020-05-21 14:48:51,497 INFO o.a.j.e.J.Log Token: ***************************3ee47476-4cd6-4b84-9833-1fbf7aa9b6e4
+2020-05-21 14:50:13,174 INFO c.b.j.t.a.ArrivalsThreadStarter: Duration limit reached, no more arrivals needed, had arrivals: 1
+2020-05-21 14:50:13,368 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2020-05-21 14:50:13,368 INFO c.b.j.t.a.ArrivalsThreadGroup: Done 1 arrivals, 1 completions, 0 abandonments
+2020-05-21 14:50:13,369 INFO o.a.j.t.JMeterThread: Thread is done: 100 Users - Arrivals Thread Group-ThreadStarter 1-1
+2020-05-21 14:50:13,369 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2020-05-21 14:50:13,369 INFO o.a.j.t.JMeterThread: Thread finished: 100 Users - Arrivals Thread Group-ThreadStarter 1-1
+2020-05-21 14:51:04,193 INFO o.a.j.e.StandardJMeterEngine: Running the test!
+2020-05-21 14:51:04,194 INFO o.a.j.s.SampleEvent: List of sample_variables: []
+2020-05-21 14:51:04,196 INFO o.a.j.g.u.JMeterMenuBar: setRunning(true, *local*)
+2020-05-21 14:51:04,205 INFO o.a.j.e.StandardJMeterEngine: Starting ThreadGroup: 1 : 100 Users - Arrivals Thread Group
+2020-05-21 14:51:04,205 INFO o.a.j.e.StandardJMeterEngine: Starting 0 threads for group 100 Users - Arrivals Thread Group.
+2020-05-21 14:51:04,205 INFO o.a.j.e.StandardJMeterEngine: Thread will continue on error
+2020-05-21 14:51:04,206 INFO o.a.j.t.JMeterThread: Thread started: 100 Users - Arrivals Thread Group-ThreadStarter 1-1
+2020-05-21 14:51:04,206 INFO c.b.j.t.a.ArrivalsThreadGroup: Got first arrival
+2020-05-21 14:51:04,206 INFO o.a.j.e.StandardJMeterEngine: All thread groups have been started
+2020-05-21 14:51:06,010 INFO o.a.j.e.J.Log Token: ***************************f6bd5a91-ed55-4d65-8299-930bf49ef51c
+2020-05-21 14:51:13,209 INFO o.a.j.u.JsseSSLManager: Using default SSL protocol: TLS
+2020-05-21 14:51:13,209 INFO o.a.j.u.JsseSSLManager: SSL session context: per-thread
+2020-05-21 14:51:14,921 INFO o.a.j.e.J.Log Token: ***************************fd24ffc0-215c-4ef2-a2b4-554dc17a294d
+2020-05-21 14:51:15,007 INFO o.a.j.t.JMeterThread: Thread started: 100 Users - Arrivals Thread Group-ThreadStarter 1-2
+2020-05-21 14:51:16,507 INFO o.a.j.t.JMeterThread: Thread started: 100 Users - Arrivals Thread Group-ThreadStarter 1-3
+2020-05-21 14:51:17,792 INFO o.a.j.t.JMeterThread: Thread started: 100 Users - Arrivals Thread Group-ThreadStarter 1-4
+2020-05-21 14:51:20,203 INFO o.a.j.t.JMeterThread: Thread started: 100 Users - Arrivals Thread Group-ThreadStarter 1-5
+2020-05-21 14:51:20,438 INFO o.a.j.e.J.Log Token: ***************************eb27444e-607f-44fd-8fe0-c00389108bd4
+2020-05-21 14:51:21,328 INFO o.a.j.t.JMeterThread: Thread started: 100 Users - Arrivals Thread Group-ThreadStarter 1-6
+2020-05-21 14:51:22,328 INFO o.a.j.t.JMeterThread: Thread started: 100 Users - Arrivals Thread Group-ThreadStarter 1-7
+2020-05-21 14:51:23,228 INFO o.a.j.t.JMeterThread: Thread started: 100 Users - Arrivals Thread Group-ThreadStarter 1-8
+2020-05-21 14:51:24,128 INFO o.a.j.t.JMeterThread: Thread started: 100 Users - Arrivals Thread Group-ThreadStarter 1-9
+2020-05-21 14:51:24,695 INFO o.a.j.e.J.Log Token: ***************************15fe8dcd-6454-4218-a8a1-5f8c9543c2eb
+2020-05-21 14:51:24,753 INFO o.a.j.e.J.Log Token: ***************************544231d8-f377-4c22-a450-d11db7d05bff
+2020-05-21 14:51:25,028 INFO o.a.j.t.JMeterThread: Thread started: 100 Users - Arrivals Thread Group-ThreadStarter 1-10
+2020-05-21 14:51:25,846 INFO o.a.j.t.JMeterThread: Thread started: 100 Users - Arrivals Thread Group-ThreadStarter 1-11
+2020-05-21 14:51:26,664 INFO o.a.j.t.JMeterThread: Thread started: 100 Users - Arrivals Thread Group-ThreadStarter 1-12
+2020-05-21 14:51:27,414 INFO o.a.j.t.JMeterThread: Thread started: 100 Users - Arrivals Thread Group-ThreadStarter 1-13
+2020-05-21 14:51:28,164 INFO o.a.j.t.JMeterThread: Thread started: 100 Users - Arrivals Thread Group-ThreadStarter 1-14
+2020-05-21 14:51:28,914 INFO o.a.j.t.JMeterThread: Thread started: 100 Users - Arrivals Thread Group-ThreadStarter 1-15
+2020-05-21 14:51:29,607 INFO o.a.j.t.JMeterThread: Thread started: 100 Users - Arrivals Thread Group-ThreadStarter 1-16
+2020-05-21 14:51:30,299 INFO o.a.j.t.JMeterThread: Thread started: 100 Users - Arrivals Thread Group-ThreadStarter 1-17
+2020-05-21 14:51:30,942 INFO o.a.j.t.JMeterThread: Thread started: 100 Users - Arrivals Thread Group-ThreadStarter 1-18
+2020-05-21 14:51:31,585 INFO o.a.j.t.JMeterThread: Thread started: 100 Users - Arrivals Thread Group-ThreadStarter 1-19
+2020-05-21 14:51:32,227 INFO o.a.j.t.JMeterThread: Thread started: 100 Users - Arrivals Thread Group-ThreadStarter 1-20
+2020-05-21 14:51:32,827 INFO o.a.j.t.JMeterThread: Thread started: 100 Users - Arrivals Thread Group-ThreadStarter 1-21
+2020-05-21 14:51:33,427 INFO o.a.j.t.JMeterThread: Thread started: 100 Users - Arrivals Thread Group-ThreadStarter 1-22
+2020-05-21 14:51:34,027 INFO o.a.j.t.JMeterThread: Thread started: 100 Users - Arrivals Thread Group-ThreadStarter 1-23
+2020-05-21 14:51:34,627 INFO c.b.j.t.a.ArrivalsThreadStarter: Duration limit reached, no more arrivals needed, had arrivals: 25
+2020-05-21 14:51:39,296 INFO o.a.j.t.JMeterThread: Thread is done: 100 Users - Arrivals Thread Group-ThreadStarter 1-2
+2020-05-21 14:51:39,297 INFO o.a.j.t.JMeterThread: Thread finished: 100 Users - Arrivals Thread Group-ThreadStarter 1-2
+2020-05-21 14:51:39,297 INFO o.a.j.e.J.Log Token: ***************************8f474841-a30e-4413-a971-15b03daa45e3
+2020-05-21 14:51:39,297 INFO o.a.j.t.JMeterThread: Thread is done: 100 Users - Arrivals Thread Group-ThreadStarter 1-5
+2020-05-21 14:51:39,297 INFO o.a.j.t.JMeterThread: Thread finished: 100 Users - Arrivals Thread Group-ThreadStarter 1-5
+2020-05-21 14:51:44,212 INFO o.a.j.t.JMeterThread: Thread is done: 100 Users - Arrivals Thread Group-ThreadStarter 1-4
+2020-05-21 14:51:44,212 INFO o.a.j.t.JMeterThread: Thread finished: 100 Users - Arrivals Thread Group-ThreadStarter 1-4
+2020-05-21 14:51:44,567 INFO o.a.j.e.J.Log Token: ***************************2005dd39-53bd-44f2-982c-0b58a0964e0e
+2020-05-21 14:51:44,567 INFO o.a.j.t.JMeterThread: Thread is done: 100 Users - Arrivals Thread Group-ThreadStarter 1-1
+2020-05-21 14:51:44,567 INFO o.a.j.t.JMeterThread: Thread finished: 100 Users - Arrivals Thread Group-ThreadStarter 1-1
+2020-05-21 14:51:44,602 INFO o.a.j.e.J.Log Token: ***************************59aae856-6ae5-4210-9f02-a3712b611d72
+2020-05-21 14:51:44,602 INFO o.a.j.t.JMeterThread: Thread is done: 100 Users - Arrivals Thread Group-ThreadStarter 1-8
+2020-05-21 14:51:44,602 INFO o.a.j.t.JMeterThread: Thread finished: 100 Users - Arrivals Thread Group-ThreadStarter 1-8
+2020-05-21 14:51:44,649 INFO o.a.j.t.JMeterThread: Thread is done: 100 Users - Arrivals Thread Group-ThreadStarter 1-3
+2020-05-21 14:51:44,649 INFO o.a.j.t.JMeterThread: Thread finished: 100 Users - Arrivals Thread Group-ThreadStarter 1-3
+2020-05-21 14:51:44,651 INFO o.a.j.e.J.Log Token: ***************************abba2893-e768-4e89-b811-3571c35c3408
+2020-05-21 14:51:44,651 INFO o.a.j.t.JMeterThread: Thread is done: 100 Users - Arrivals Thread Group-ThreadStarter 1-6
+2020-05-21 14:51:44,651 INFO o.a.j.t.JMeterThread: Thread finished: 100 Users - Arrivals Thread Group-ThreadStarter 1-6
+2020-05-21 14:51:44,794 INFO o.a.j.e.J.Log Token: ***************************fcdbb2ad-1fa5-46ad-9066-8060269eb80d
+2020-05-21 14:51:44,794 INFO o.a.j.t.JMeterThread: Thread is done: 100 Users - Arrivals Thread Group-ThreadStarter 1-9
+2020-05-21 14:51:44,794 INFO o.a.j.e.J.Log Token: ***************************57cf9a28-02e0-4fb0-bd72-d9b4f086d533
+2020-05-21 14:51:44,794 INFO o.a.j.t.JMeterThread: Thread finished: 100 Users - Arrivals Thread Group-ThreadStarter 1-9
+2020-05-21 14:51:44,794 INFO o.a.j.t.JMeterThread: Thread is done: 100 Users - Arrivals Thread Group-ThreadStarter 1-10
+2020-05-21 14:51:44,794 INFO o.a.j.t.JMeterThread: Thread finished: 100 Users - Arrivals Thread Group-ThreadStarter 1-10
+2020-05-21 14:51:44,795 INFO o.a.j.e.J.Log Token: ***************************b5319b9e-48f1-4b14-92f9-f4ff600df267
+2020-05-21 14:51:44,797 INFO o.a.j.t.JMeterThread: Thread is done: 100 Users - Arrivals Thread Group-ThreadStarter 1-11
+2020-05-21 14:51:44,797 INFO o.a.j.t.JMeterThread: Thread finished: 100 Users - Arrivals Thread Group-ThreadStarter 1-11
+2020-05-21 14:51:44,798 INFO o.a.j.e.J.Log Token: ***************************e73f2a17-398b-4b4e-9dc7-cdf681d032d4
+2020-05-21 14:51:44,798 INFO o.a.j.t.JMeterThread: Thread is done: 100 Users - Arrivals Thread Group-ThreadStarter 1-16
+2020-05-21 14:51:44,799 INFO o.a.j.t.JMeterThread: Thread finished: 100 Users - Arrivals Thread Group-ThreadStarter 1-16
+2020-05-21 14:51:44,802 INFO o.a.j.e.J.Log Token: ***************************73b6a8c7-f4be-41ce-a154-a9e190398ed2
+2020-05-21 14:51:44,802 INFO o.a.j.e.J.Log Token: ***************************cb766fd7-53a3-401d-afca-8a3508384406
+2020-05-21 14:51:44,802 INFO o.a.j.t.JMeterThread: Thread is done: 100 Users - Arrivals Thread Group-ThreadStarter 1-17
+2020-05-21 14:51:44,802 INFO o.a.j.t.JMeterThread: Thread finished: 100 Users - Arrivals Thread Group-ThreadStarter 1-17
+2020-05-21 14:51:44,802 INFO o.a.j.t.JMeterThread: Thread is done: 100 Users - Arrivals Thread Group-ThreadStarter 1-15
+2020-05-21 14:51:44,802 INFO o.a.j.t.JMeterThread: Thread finished: 100 Users - Arrivals Thread Group-ThreadStarter 1-15
+2020-05-21 14:51:44,817 INFO o.a.j.e.J.Log Token: ***************************697d8b14-33ff-4cd6-9136-196def678ada
+2020-05-21 14:51:44,817 INFO o.a.j.t.JMeterThread: Thread is done: 100 Users - Arrivals Thread Group-ThreadStarter 1-14
+2020-05-21 14:51:44,818 INFO o.a.j.t.JMeterThread: Thread finished: 100 Users - Arrivals Thread Group-ThreadStarter 1-14
+2020-05-21 14:51:44,880 INFO o.a.j.e.J.Log Token: ***************************a4e08d3c-fc2c-4f2f-88d8-9c0262a484f6
+2020-05-21 14:51:44,880 INFO o.a.j.t.JMeterThread: Thread is done: 100 Users - Arrivals Thread Group-ThreadStarter 1-13
+2020-05-21 14:51:44,880 INFO o.a.j.t.JMeterThread: Thread finished: 100 Users - Arrivals Thread Group-ThreadStarter 1-13
+2020-05-21 14:51:44,881 INFO o.a.j.e.J.Log Token: ***************************a5353d4a-f3e7-40fe-8e49-ee622cf323f7
+2020-05-21 14:51:44,881 INFO o.a.j.t.JMeterThread: Thread is done: 100 Users - Arrivals Thread Group-ThreadStarter 1-19
+2020-05-21 14:51:44,881 INFO o.a.j.t.JMeterThread: Thread finished: 100 Users - Arrivals Thread Group-ThreadStarter 1-19
+2020-05-21 14:51:44,886 INFO o.a.j.e.J.Log Token: ***************************2b349f46-e13a-448f-a38d-f243cf1b1162
+2020-05-21 14:51:44,886 INFO o.a.j.t.JMeterThread: Thread is done: 100 Users - Arrivals Thread Group-ThreadStarter 1-18
+2020-05-21 14:51:44,886 INFO o.a.j.e.J.Log Token: ***************************d6ccf4a5-0d47-4c0b-bde6-e2916da496f7
+2020-05-21 14:51:44,886 INFO o.a.j.t.JMeterThread: Thread finished: 100 Users - Arrivals Thread Group-ThreadStarter 1-18
+2020-05-21 14:51:44,886 INFO o.a.j.t.JMeterThread: Thread is done: 100 Users - Arrivals Thread Group-ThreadStarter 1-12
+2020-05-21 14:51:44,886 INFO o.a.j.t.JMeterThread: Thread finished: 100 Users - Arrivals Thread Group-ThreadStarter 1-12
+2020-05-21 14:51:44,912 INFO o.a.j.e.J.Log Token: ***************************ae2c1d90-f6ba-41fd-9393-761cea4f8254
+2020-05-21 14:51:44,912 INFO o.a.j.e.J.Log Token: ***************************6b6d2186-41f4-483e-b426-fd13a40bb071
+2020-05-21 14:51:44,912 INFO o.a.j.t.JMeterThread: Thread is done: 100 Users - Arrivals Thread Group-ThreadStarter 1-23
+2020-05-21 14:51:44,912 INFO o.a.j.t.JMeterThread: Thread is done: 100 Users - Arrivals Thread Group-ThreadStarter 1-21
+2020-05-21 14:51:44,912 INFO o.a.j.t.JMeterThread: Thread finished: 100 Users - Arrivals Thread Group-ThreadStarter 1-23
+2020-05-21 14:51:44,912 INFO o.a.j.t.JMeterThread: Thread finished: 100 Users - Arrivals Thread Group-ThreadStarter 1-21
+2020-05-21 14:51:44,921 INFO o.a.j.e.J.Log Token: ***************************509f9bce-0af3-4571-a1ed-d8e9aaadfec9
+2020-05-21 14:51:44,921 INFO o.a.j.e.J.Log Token: ***************************547d8f2b-2265-4b63-b24a-854421006d3f
+2020-05-21 14:51:44,921 INFO o.a.j.t.JMeterThread: Thread is done: 100 Users - Arrivals Thread Group-ThreadStarter 1-22
+2020-05-21 14:51:44,921 INFO o.a.j.t.JMeterThread: Thread is done: 100 Users - Arrivals Thread Group-ThreadStarter 1-7
+2020-05-21 14:51:44,922 INFO o.a.j.t.JMeterThread: Thread finished: 100 Users - Arrivals Thread Group-ThreadStarter 1-22
+2020-05-21 14:51:44,922 INFO o.a.j.t.JMeterThread: Thread finished: 100 Users - Arrivals Thread Group-ThreadStarter 1-7
+2020-05-21 14:51:45,404 INFO o.a.j.e.J.Log Token: ***************************4bcbf5ff-8e05-4b98-8b4f-f349d79bc978
+2020-05-21 14:51:45,404 INFO o.a.j.t.JMeterThread: Thread is done: 100 Users - Arrivals Thread Group-ThreadStarter 1-20
+2020-05-21 14:51:45,404 INFO o.a.j.t.JMeterThread: Thread finished: 100 Users - Arrivals Thread Group-ThreadStarter 1-20
+2020-05-21 14:51:45,405 INFO o.a.j.e.StandardJMeterEngine: Notifying test listeners of end of test
+2020-05-21 14:51:45,406 INFO c.b.j.t.a.ArrivalsThreadGroup: Done 25 arrivals, 2 completions, 0 abandonments
+2020-05-21 14:51:45,406 INFO o.a.j.g.u.JMeterMenuBar: setRunning(false, *local*)
+2020-05-21 14:56:41,280 INFO o.a.j.v.ViewResultsFullVisualizer: Add JavaFX to your Java installation if you want to use renderer: org.apache.jmeter.visualizers.RenderInBrowser
