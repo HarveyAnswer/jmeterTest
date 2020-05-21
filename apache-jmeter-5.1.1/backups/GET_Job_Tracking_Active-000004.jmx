@@ -75,12 +75,12 @@
       <hashTree/>
       <kg.apc.jmeter.threads.UltimateThreadGroup guiclass="kg.apc.jmeter.threads.UltimateThreadGroupGui" testclass="kg.apc.jmeter.threads.UltimateThreadGroup" testname="jp@gc - Ultimate Thread Group" enabled="true">
         <collectionProp name="ultimatethreadgroupdata">
-          <collectionProp name="1287687142">
+          <collectionProp name="1576723527">
             <stringProp name="100">100</stringProp>
             <stringProp name="0">0</stringProp>
-            <stringProp name="49586">200</stringProp>
-            <stringProp name="49586">200</stringProp>
-            <stringProp name="49586">200</stringProp>
+            <stringProp name="53430">600</stringProp>
+            <stringProp name="1507423">1000</stringProp>
+            <stringProp name="53430">600</stringProp>
           </collectionProp>
         </collectionProp>
         <elementProp name="ThreadGroup.main_controller" elementType="LoopController" guiclass="LoopControlPanel" testclass="LoopController" testname="Loop Controller" enabled="true">
